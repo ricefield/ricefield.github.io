@@ -196,7 +196,7 @@ header .home_button:hover {
   background-image: url(../images/icon_home_hover.png);
   background-position: center;
   background-repeat: no-repeat;
-  color: #ce2323;
+  color: #000080;
   transition: background 300ms linear;
   -webkit-transition: background 300ms linear;
 }
@@ -279,7 +279,7 @@ header ul.meta li span {
 
 .pagination a:hover {
   background: #fff;
-  color: #ce2323;
+  color: #000080;
 }
 
 /* Article */
@@ -321,7 +321,7 @@ article li {
 }
 
 article a {
-  color: #CE2323;
+  color: #000080;
   text-decoration: none;
 }
 
