@@ -223,6 +223,11 @@ header ul.meta li {
   color: #fff;
 }
 
+header ul.meta li a {
+  color: #fff;
+  text-decoration: none;
+}
+
 header ul.meta li span {
   margin-right: 10px;
   font-style: italic;
