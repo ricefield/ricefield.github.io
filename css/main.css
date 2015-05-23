@@ -295,7 +295,7 @@ header ul.meta li span {
 
 .pagination a:hover {
   background: #fff;
-  color: #000080;
+  color: #ce2323;
 }
 
 /* Article */
@@ -337,7 +337,7 @@ article li {
 }
 
 article a {
-  color: #000080;
+  color: #CE2323;
   text-decoration: none;
 }
 
