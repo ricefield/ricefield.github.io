@@ -12,12 +12,41 @@
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/reset.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-  <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
   <!-- Fonts -->
   <link href='http://fonts.googleapis.com/css?family=Bitter:400,700,400italic|Open+Sans:400italic,600italic,400,600' rel='stylesheet' type='text/css'>
 </head>
 <body>
-  {{ content }}
+
+  <header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }});">
+    <div class="container">
+      <ul class="nav meta">
+        <li>
+          <a href="/about">About</a>
+        </li>
+        <li>
+          <a href="/resume">Resume</a>
+        </li>
+        <li>
+          <a href="/work">Work</a>
+        </li>
+      </ul>      
+      <h1>{{ site.title }}</h1>
+      <ul class="meta">
+        <li>
+          <span>
+            {{ site.tagline }}
+          </span>
+        </li>
+    </div>
+  </header>
+
+  <article>
+    <div class="container">
+      {{ content }}
+    </div>
+  </article>
+
 </body>
 </html>

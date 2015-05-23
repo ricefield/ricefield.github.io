@@ -1,30 +1,8 @@
 ---
 layout: default
 ---
-<header id="home-header" style="background-image: url({{ site.baseurl }}{{ site.sidebar_image }});">
-  <div class="container">
-    <ul class="nav meta">
-      <li>
-        <a href="/about">About</a>
-      </li>
-      <li>
-        <a href="/resume">Resume</a>
-      </li>
-      <li>
-        <a href="/work">Work</a>
-      </li>
-    </ul>      
-    <h1>{{ site.title }}</h1>
-    <ul class="meta">
-      <li>
-        <span>
-          {{ site.tagline }}
-        </span>
-      </li>
-  </div>
-</header>
-<article>
-  <div class="container">
+
+
     <ul class="posts">
       {% for post in site.posts %}
         <li>
@@ -36,5 +14,4 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-  </div>
-</article>
+

@@ -21,6 +21,10 @@ body {
   white-space: nowrap;
 }
 
+body strong {
+  font-weight: 700;
+}
+
 /* Type */
 
 h1,
@@ -37,6 +41,13 @@ h1 {
 
 h2 {
   font-weight: 600;
+  font-size: 48px;
+  margin-bottom: 18px;
+  margin-top: 36px;
+}
+
+h3 {
+  font-weight: 400;
   font-size: 24px;
   margin-bottom: 18px;
   margin-top: 36px;
