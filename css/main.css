@@ -106,9 +106,16 @@ header {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  -webkit-filter: grayscale(1);
-  filter: grayscale(1);
+  -webkit-filter: grayscale(0.9);
+  filter: grayscale(0.9);
   overflow: hidden;
+  transition-duration: 1s
+}
+
+header:hover {
+  -webkit-filter: grayscale(0.1);
+  filter: grayscale(0.1);
+  transition-duration: 1s
 }
 
 @media (max-width: 960px) {
@@ -327,7 +334,6 @@ article p {
 article li {
   margin-left: 3em;
   margin-bottom: 9px;
-  list-style-type: disc;
 }
 
 @media (max-width: 960px) {
@@ -361,3 +367,18 @@ ul.posts .meta {
 ul.posts p {
   margin-bottom: 36px;
 }
+
+/* About page */
+
+#profile {
+  -webkit-filter: grayscale(0.9);
+  filter: grayscale(0.9);
+  transition-duration: 1s
+}
+
+#profile:hover {
+  -webkit-filter: grayscale(0.2);
+  filter: grayscale(0.2);
+  transition-duration: 1s
+}
+
