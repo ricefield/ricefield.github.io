@@ -26,10 +26,10 @@ Interned before going full-time at a organization whose core mission I care deep
 **Product Manager Intern @ Glassdoor.com** | Spring 2012 - Summer 2012  
 Worked on a variety of projects from FB Open Graph integration to job syndication and new user onboarding. Most notably, laid much of the groundwork for the new Post-a-Job offering. Responsibilities included doing competitive research, building wireframes, assembling slide decks, defining stories for engineers, and doing some scripting on the side.  
 
-**Product Manager at Endoppler/Crumbs** | Fall 2010 - Spring 2011  
+**Product Manager @ Endoppler/Crumbs** | Fall 2010 - Spring 2011  
 Part of the founding team of a small (4-5 person) startup started by a Berkeley alum and a few students/alums. Worked primarily as a Product Manager for the the team, definining product focus, scope, feature set, and doing the majority of the design and graphic work. Originally Endoppler a traffic safety app, in Jan 2011, company pivoted on an idea I proposed and became Crumbs, a location-based bulletin board. 
 
-**Product Intern Cloudtalk** | Summer 2010  
+**Product Intern @ Cloudtalk** | Summer 2010  
 Interned with the Product Management division at a small software startup in SF doing voice-based social networking. Designed features, UI mockups; drafted proposals for presentation to executive team; implemented a facebook-connect proof of concept; worked on mobile app onboarding process/flows; designed website. 
 
 ### PROJECTS
