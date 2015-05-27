@@ -50,9 +50,9 @@ After some deliberation with current and former team members, as well as the adm
 <span id="calchat"></span>
 ### CalChat
 
-In my last semester at Cal, my friends Jesse Chen, Nelson Hoang, and I decided to enter a hackathon hosted by the UC Berkeley Student Technology Council (STC). We used the occassion as an opportunity to learn NodeJS, which we had never worked with before. Despite being less polished and 
+In my last semester at Cal, my friends [Jesse Chen](http://jessechen.net), Nelson Hoang, and I decided to enter a hackathon hosted by the UC Berkeley Student Technology Council (STC). We used the occassion as an opportunity to learn NodeJS, which we had never worked with before. Despite a hastily assembled demo, we managed to [place third in the judging](http://stc.berkeley.edu/competitions/code-4-cal/2011-2012).
 
-Later that semester, we decided to enter the STC's Web App Competition and invited our friend Mark Wei to join our team. Over the course of a month, we rewrote our entire app (still in Node) and submitted it to the competition, winning both the Grand Prize and the People's Choice Award to take home a combined $4000. 
+Later that semester, we decided to enter the STC's Web App Competition and invited our friend Mark Wei to join our team. Over the course of a month, we rewrote our entire app (still in Node) and submitted it to the competition, [winning both the Grand Prize and the People's Choice Award to take home a combined $4000](http://stc.berkeley.edu/competitions/web-app-competition/2011-2012). 
 
 You can see our app live at: calchat.net and our competition pitch deck here: [CalChat Presentation](https://speakerdeck.com/ricefield/calchat)
 
