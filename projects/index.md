@@ -30,18 +30,18 @@ featured_image: /images/cover.jpg
 <span id="bfa"></span>
 ### Bibles for America
 
-[Bibles for America](bfa.org) (BfA) is a Christian non-profit whose goal is to distribute the Word of God and Christian books to believers across the country. During my time at BfA, one of my main projects was a rewrite of the [BfA website](biblesforamerica.org). The original website was built on Wordpress, using a variety of plugins for e-commerce, multilingual, and blogging/SEO. Unfortunately, this was causing BfA a lot of problems: difficult bugs, slow site performance, and a large hosting bill. 
+[Bibles for America](bfa.org) (BfA) is a Christian non-profit whose goal is to distribute the Word of God and Christian books to believers across the country. During my time at BfA, one of my main projects was a rewrite of the [BfA website](http://biblesforamerica.org). The original website was built on Wordpress, using a variety of plugins for e-commerce, multilingual, and blogging/SEO. Unfortunately, this was causing BfA a lot of problems: difficult bugs, slow site performance, and a large hosting bill. 
 
-Inspired by the success the [Obama campaign had with static sites](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/), as well as [Development Seed's usage of Jekyll for healthcare.gov](http://www.theatlantic.com/technology/archive/2013/06/healthcaregov-code-developed-by-the-people-and-for-the-people-released-back-to-the-people/277295/), I proposed we also try converting our problematic Wordpress site into a Jekyll-driven static site. Less than a year later, we launched a fully static version of [biblesforamerica.org](bfa.org), resulting in a 75% reduction in load time and bringing out monthly hosting costs down to less than $0.50/month.
+Inspired by the success the [Obama campaign had with static sites](http://kylerush.net/blog/meet-the-obama-campaigns-250-million-fundraising-platform/), as well as [Development Seed's usage of Jekyll for healthcare.gov](http://www.theatlantic.com/technology/archive/2013/06/healthcaregov-code-developed-by-the-people-and-for-the-people-released-back-to-the-people/277295/), I proposed we also try converting our problematic Wordpress site into a Jekyll-driven static site. Less than a year later, we launched a fully static version of [biblesforamerica.org](http://bfa.org), resulting in a 75% reduction in load time and bringing out monthly hosting costs down to less than $0.50/month.
 
 **2014 Year in Review**  
-Another major project I enjoyed working on at BfA was our first-ever annual review minisite. It was my first time working a purely presentational website, and I learned a lot working with the designers and writers in producing a scrolling website to be used as promotional material. You can take a look here: [BfA 2014 Year in Review](bfa.org/2014)
+Another major project I enjoyed working on at BfA was our first-ever annual review minisite. It was my first time working a purely presentational website, and I learned a lot working with the designers and writers in producing a scrolling website to be used as promotional material. You can take a look here: [BfA 2014 Year in Review](http://bfa.org/2014)
 
 
 <span id="attendanceproject"></span>
 ### Attendance Project
 
-In Fall 2012 I enrolled in the [Full-time Training in Anaheim](ftta.org) (FTTA), a 2-year Bible truth and church service training program based in Anaheim, CA. As part of my program, I was assigned to various services, one of which was the [Attendance Project](https://github.com/attendanceproject/djattendance), an internally developed and maintained web application used by all the trainees and training administrators to mark attendance, process leave slips, enter exam scores and grades, assign weekly services, and other administrative functions.
+In Fall 2012 I enrolled in the [Full-time Training in Anaheim](http://ftta.org) (FTTA), a 2-year Bible truth and church service training program based in Anaheim, CA. As part of my program, I was assigned to various services, one of which was the [Attendance Project](https://github.com/attendanceproject/djattendance), an internally developed and maintained web application used by all the trainees and training administrators to mark attendance, process leave slips, enter exam scores and grades, assign weekly services, and other administrative functions.
 
 The project was in its 10th year of development when I joined the team, and had accumulated contributions from many programmers passing through the program year after year. While mature and feature-rich, the project's age was becoming problematic for the team, as lack of documentation and a messy, old code made bug-fixing difficult, leaving little time for new feature development. 
 
@@ -59,7 +59,7 @@ You can see our app live at: calchat.net and our competition pitch deck here: [C
 <span id="apis"></span>
 ### hymnalAPI / RcVAPI
 
-These were two fun projects I worked during the winter of 2013, mainly as a way to play around with Ruby and Sinatra. Both [hymnal.net](hymnal.net) and [recoveryversion.org](online.recoveryversion.org) are websites my friends from church and I use often to look up songs or Bibles verses. Unfortunately, hymnal.net lacks an official API, and I found recoveryversion.org's unwieldy. Since I know of a few others who had independently written scrapers to get the data into databases and/or mobile apps, I thought it would be a good exercise to write a common interface to retrieve the data. Sinatra ended up being a great microframework for writing simple web APIs, and for a first Ruby project, it was simple and helped me get comfortable with the language. You can view both projects on GitHub: [hymnalAPI](https://github.com/ricefield/hymnalAPI) / [RcVAPI](https://github.com/ricefield/RcVAPI).
+These were two fun projects I worked during the winter of 2013, mainly as a way to play around with Ruby and Sinatra. Both [hymnal.net](http://hymnal.net) and [recoveryversion.org](http://online.recoveryversion.org) are websites my friends from church and I use often to look up songs or Bibles verses. Unfortunately, hymnal.net lacks an official API, and I found recoveryversion.org's unwieldy. Since I know of a few others who had independently written scrapers to get the data into databases and/or mobile apps, I thought it would be a good exercise to write a common interface to retrieve the data. Sinatra ended up being a great microframework for writing simple web APIs, and for a first Ruby project, it was simple and helped me get comfortable with the language. You can view both projects on GitHub: [hymnalAPI](https://github.com/ricefield/hymnalAPI) / [RcVAPI](https://github.com/ricefield/RcVAPI).
 
 <span id="blindly"></span>
 ### Blind.ly Messenger
@@ -77,7 +77,7 @@ You can check the source code for our Android client on [GitHub](https://github.
 
 A side project I worked on during my first term of the FTTA. I came up with the idea of having wallet-sized tracts a few years prior, thinking it would be nice to always have gospel materials on hand. Initial mockups didn't seem to work so well though, so I dropped the idea.
 
-After being inspired to take another stab at it, I decided on a simpler format of having one verse and one footnote (from the [Recovery Version](recoveryversion.org)), making sure to leave some space for contact info to be written. This ended up working well, though it still required a lot of kerning to get some text to fit properly. A very fun and rewarding project. 
+After being inspired to take another stab at it, I decided on a simpler format of having one verse and one footnote (from the [Recovery Version](http://recoveryversion.org)), making sure to leave some space for contact info to be written. This ended up working well, though it still required a lot of kerning to get some text to fit properly. A very fun and rewarding project. 
 
 * Song of Songs 6:1-2 | [Front](tracts/SS61-2front.pdf) / [Back](tracts/SS61-2back.pdf)
 * Romans 12:2 | [Front](tracts/Rom122front.pdf) / [Back](tracts/Rom122back.pdf)
