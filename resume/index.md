@@ -4,7 +4,7 @@ title: "Resume"
 featured_image: /images/cover.jpg
 ---
 
-## Resume  <a href="resume.pdf"><i class="fa fa-file-pdf-o"></i></a>
+## Resume  <a href="jonathan.tien.resume.pdf"><i class="fa fa-file-pdf-o"></i></a>
 ---
 
 ### EDUCATION  
